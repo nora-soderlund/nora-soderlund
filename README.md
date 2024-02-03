@@ -1,6 +1,6 @@
 Technical Lead @ Polestar and contributing to open source software, recognized as a Cloudflare Developer Expert and Google Maps Platform Top Contributor.
 
-My focus right now is building [MyKitchenRecipes](https://mykitchenrecipes.app) and developing solar panel placement software.
+<!--My focus right now is building [MyKitchenRecipes](https://mykitchenrecipes.app) and developing solar panel placement software.-->
 
 Find out more about me on my [personal developer blog](https://nora-soderlund.se).
 
