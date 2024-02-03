@@ -1,4 +1,11 @@
-### Hi there 👋
+Technical Lead @ Polestar and contributing to open source software, recognized as a Cloudflare Developer Expert and Google Maps Platform Top Contributor.
+
+My focus right now is building [MyKitchenRecipes](https://mykitchenrecipes.app) and developing solar panel placement software.
+
+Find out more about me on my [personal developer blog](https://nora-soderlund.se).
+
+<img src="https://i.imgur.com/0I3mowz.gif" width=40 height=40/>
+
 
 <!--
 **nora-soderlund/nora-soderlund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
